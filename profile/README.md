@@ -18,7 +18,7 @@ Transformando ideias em experiências digitais, conectando pessoas, projetos e c
 
 O **Time de Mídias** integra o Núcleo Institucional do **RAITEC — Robótica, Automação, Inteligência Artificial e Tecnologias**, da Universidade Federal do Ceará (UFC).
 
-Somos responsáveis por desenvolver e manter as plataformas digitais que representam a RAITEC, fortalecendo sua identidade visual, comunicação institucional e presença online.
+Somos responsáveis por desenvolver e manter as plataformas digitais que representam o RAITEC, fortalecendo sua identidade visual, comunicação institucional e presença online.
 
 Nosso trabalho conecta tecnologia, design e experiência do usuário para tornar os projetos do RAITEC acessíveis à comunidade acadêmica e à sociedade.
 
